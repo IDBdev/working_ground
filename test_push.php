@@ -214,5 +214,6 @@
       </text>
     </svg>
     <h2>smth new</h2>
+    <p>test</p>
   </body>
 </html>
