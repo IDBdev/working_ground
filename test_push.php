@@ -213,5 +213,6 @@
         500x500
       </text>
     </svg>
+    <h2>smth new</h2>
   </body>
 </html>
