@@ -213,6 +213,7 @@
         500x500
       </text>
     </svg>
+<<<<<<< HEAD
     <div class="container">
       <div class="row">
         <div class="col-12">
@@ -220,5 +221,8 @@
         </div>
       </div>
     </div>
+=======
+    <h2>smth new</h2>
+>>>>>>> 8851c4388f480a15811391eb18e7e550564f44b3
   </body>
 </html>
